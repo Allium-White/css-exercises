@@ -1,0 +1,19 @@
+p {
+    background-color: #ffc0cb;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#un2 {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+p.al {
+    font-size: 24px;
+}
+
+#un4 {
+    background-color: hsl(140, 100%, 70%);
+    font-size: 24px;
+    font-weight: bold;
+}
